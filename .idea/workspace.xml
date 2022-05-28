@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f8de289-a0ac-4555-b441-cecbb5fc29dc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java包.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object教程/Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object教程/Finalize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object教程/HashCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Object教程/Tostring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/temp1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/temp2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/动态绑定机制OOP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态参数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/封装.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/封装继承多态/继承.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/Final关键字.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/main方法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/代码块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/抽象类.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/接口.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/接口动态绑定机制.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/类变量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/继承复杂代码块.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/类高级/设计模式.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29nQYqJQRADJ1VrNROPOYhwHJXL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f8de289-a0ac-4555-b441-cecbb5fc29dc" name="Changes" comment="" />
+      <created>1653746421544</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653746421544</updated>
+      <workItem from="1653746423584" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
