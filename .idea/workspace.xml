@@ -2,62 +2,295 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0f8de289-a0ac-4555-b441-cecbb5fc29dc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java包.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object教程/Equals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object教程/Finalize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object教程/HashCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Object教程/Tostring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/temp1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/temp2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/动态绑定机制OOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态参数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/多态数组.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/封装.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/封装继承多态/继承.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/Final关键字.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/main方法.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/代码块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/抽象类.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/接口.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/接口动态绑定机制.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/类变量.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/继承复杂代码块.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/类高级/设计模式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_27_bin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/BufferReader_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/BufferWriter_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/BufferedInput_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/ObjectInput_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/文件创建.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/文件操作.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/流.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/获取文件信息.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/IO流/转换流.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC事务.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JDBC/JDBC批处理.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/多线程使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/守护线程.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程例题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程同步.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程插队练习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程方法.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程概念.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程死锁.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程的生命周期.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/线程/线程类使用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/temp.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MyJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/概述.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/概述.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29nQYqJQRADJ1VrNROPOYhwHJXL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2"
-  }
-}]]></component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\javaGit\MyJava\libs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ObjectInput_">
+    <configuration name="线程同步" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.线程同步" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferReader_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.BufferReader_" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferWriter_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.BufferWriter_" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BufferedInput_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.BufferedInput_" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSet_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="集合.Set接口.HashSet_" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="集合.Set接口.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JDBC批处理" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.JDBC批处理" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="JDBC.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectInput_" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.ObjectInput_" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="多线程使用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.多线程使用" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="多线程使用" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.多线程使用" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="流" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.流" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="文件创建" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IO流.文件创建" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="IO流.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="守护线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.守护线程" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="线程例题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.线程例题" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="线程例题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.线程例题" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="线程插队练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="线程.线程插队练习" />
+      <module name="MyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ObjectInput_" />
+        <item itemvalue="Application.BufferedInput_" />
+        <item itemvalue="Application.BufferWriter_" />
+        <item itemvalue="Application.BufferReader_" />
+        <item itemvalue="Application.HashSet_" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -67,6 +300,109 @@
       <option name="presentableId" value="Default" />
       <updated>1653746421544</updated>
       <workItem from="1653746423584" duration="236000" />
+      <workItem from="1653784381163" duration="6695000" />
+      <workItem from="1653822054968" duration="7906000" />
+      <workItem from="1653835640775" duration="2000" />
+      <workItem from="1653895496861" duration="3000" />
+      <workItem from="1653912257639" duration="655000" />
+      <workItem from="1653916005425" duration="3205000" />
+      <workItem from="1654168239154" duration="8412000" />
+      <workItem from="1654183241720" duration="2000" />
+      <workItem from="1654235429462" duration="1234000" />
+      <workItem from="1654248032003" duration="3063000" />
+      <workItem from="1654253110306" duration="5045000" />
+      <workItem from="1654267156957" duration="4000" />
+      <workItem from="1654270108148" duration="4000" />
+      <workItem from="1654273237762" duration="2332000" />
+      <workItem from="1654304384393" duration="7406000" />
+      <workItem from="1654685456516" duration="11785000" />
+      <workItem from="1654700987087" duration="6000" />
+      <workItem from="1654769594207" duration="7705000" />
+      <workItem from="1654784197725" duration="17000" />
+      <workItem from="1654784247110" duration="1245000" />
+      <workItem from="1654790030356" duration="7000" />
+      <workItem from="1654820475678" duration="6169000" />
+      <workItem from="1654852947726" duration="1000" />
+      <workItem from="1654854881758" duration="4000" />
+      <workItem from="1654880698508" duration="7000" />
+      <workItem from="1655460557854" duration="8570000" />
+      <workItem from="1655471552917" duration="6328000" />
+      <workItem from="1655507025674" duration="6471000" />
+      <workItem from="1655516651060" duration="2000" />
+      <workItem from="1655517460663" duration="1000" />
+      <workItem from="1655518822775" duration="4000" />
+      <workItem from="1655518846380" duration="2000" />
+      <workItem from="1655536560578" duration="64000" />
+      <workItem from="1655537086986" duration="7829000" />
+      <workItem from="1655593315009" duration="1488000" />
+      <workItem from="1655608223801" duration="4000" />
+      <workItem from="1655609506092" duration="11000" />
+      <workItem from="1655615981213" duration="4000" />
+      <workItem from="1655767465930" duration="8000" />
+      <workItem from="1655890320925" duration="6374000" />
+      <workItem from="1655901702701" duration="801000" />
+      <workItem from="1655942179236" duration="3589000" />
+      <workItem from="1655951536146" duration="4448000" />
+      <workItem from="1655974794576" duration="2783000" />
+      <workItem from="1655985288136" duration="2327000" />
+      <workItem from="1655988277476" duration="473000" />
+      <workItem from="1655988927903" duration="2155000" />
+      <workItem from="1655991499172" duration="52000" />
+      <workItem from="1656040175736" duration="1350000" />
+      <workItem from="1656045202561" duration="809000" />
+      <workItem from="1656081240711" duration="8000" />
+      <workItem from="1656145076823" duration="21000" />
+      <workItem from="1656145360119" duration="2346000" />
+      <workItem from="1656151349709" duration="1760000" />
+      <workItem from="1656201660207" duration="8000" />
+      <workItem from="1656201822255" duration="1932000" />
+      <workItem from="1656213273082" duration="5000" />
+      <workItem from="1656220997095" duration="3628000" />
+      <workItem from="1656233013120" duration="946000" />
+      <workItem from="1656238971297" duration="999000" />
+      <workItem from="1656248226912" duration="1755000" />
+      <workItem from="1656288583853" duration="10000" />
+      <workItem from="1656288621134" duration="20000" />
+      <workItem from="1656297191174" duration="3000" />
+      <workItem from="1656378325094" duration="8000" />
+      <workItem from="1656468430730" duration="2000" />
+      <workItem from="1656545584733" duration="3000" />
+      <workItem from="1656592455748" duration="15000" />
+      <workItem from="1656592722938" duration="19000" />
+      <workItem from="1656592851240" duration="429000" />
+      <workItem from="1656593775177" duration="201000" />
+      <workItem from="1656594120416" duration="20000" />
+      <workItem from="1656594434738" duration="19000" />
+      <workItem from="1656594953039" duration="15000" />
+      <workItem from="1656595228049" duration="50000" />
+      <workItem from="1656595477752" duration="18000" />
+      <workItem from="1656595522805" duration="89000" />
+      <workItem from="1656597613962" duration="482000" />
+      <workItem from="1656598116544" duration="891000" />
+      <workItem from="1656599907581" duration="408000" />
+      <workItem from="1656653727989" duration="6910000" />
+      <workItem from="1656719148959" duration="1282000" />
+      <workItem from="1656804648176" duration="5610000" />
+      <workItem from="1656816614094" duration="1000" />
+      <workItem from="1656820103109" duration="3878000" />
+      <workItem from="1656837841404" duration="10289000" />
+      <workItem from="1656896843227" duration="469000" />
+      <workItem from="1656902583547" duration="1705000" />
+      <workItem from="1656915518070" duration="2938000" />
+      <workItem from="1656945851858" duration="11000" />
+      <workItem from="1656985684012" duration="1822000" />
+      <workItem from="1657029449276" duration="1576000" />
+      <workItem from="1657072542761" duration="1026000" />
+      <workItem from="1657074145632" duration="45000" />
+      <workItem from="1657076243784" duration="3120000" />
+      <workItem from="1657080307414" duration="4000" />
+      <workItem from="1657502964789" duration="4000" />
+      <workItem from="1657528609514" duration="2000" />
+      <workItem from="1657876926320" duration="6056000" />
+      <workItem from="1658397051727" duration="1000" />
+      <workItem from="1658457638757" duration="1000" />
+      <workItem from="1658489079193" duration="4692000" />
+      <workItem from="1658497488431" duration="1099000" />
     </task>
     <servers />
   </component>
@@ -83,5 +419,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyJava$.ic" NAME="文件创建 Coverage Results" MODIFIED="1657076925537" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>IO流.*</FILTER>
+    </SUITE>
   </component>
 </project>
